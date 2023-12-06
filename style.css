@@ -432,7 +432,7 @@ footer p{
     }
     .person img {
         width: 200px;
-        height: 200px;
+        height: 250px;
     }
     .center img{
         width: 80%;
@@ -442,6 +442,9 @@ footer p{
     }
     .whyimg{
         overflow-x: -50px;
+    }
+    .box-inner{
+        grid-gap: 20px;
     }
     .down{
         margin-bottom: 30px;
