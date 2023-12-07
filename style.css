@@ -108,7 +108,7 @@ body{
     height: 100vh;
     display: inline;
 }
-.small_screen{
+.small_screen,.tsmall_screen{
     display: none;
 }
 .pink{
@@ -180,7 +180,7 @@ body{
     width: fit-content;
     font-size: 18px;
     border: 2px solid;
-    padding: 14px 40px;
+    padding: 14px 20px;
     border-radius: 50px;
     text-decoration: none;
     color: #fff;
@@ -427,12 +427,12 @@ footer p{
         font-size: 15px;
     }
     .btn2{
-        padding: 14px 5%;
+        padding: 14px 10px;
         margin-left: -5px;
     }
     .person img {
         width: 200px;
-        height: 250px;
+        height: 200px;
     }
     .center img{
         width: 80%;
@@ -452,7 +452,7 @@ footer p{
     .small_screen img{
         width: 300px;
     }
-    .small_screen{
+    .small_screen,.tsmall_screen{
         display: contents;
     }
     .large_screen{
