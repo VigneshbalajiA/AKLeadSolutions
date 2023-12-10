@@ -320,10 +320,6 @@ body{
     clear: both;
 }
 
-span{
-    color: #008080;
-}
-
 .btn{
     background: #08080800;
     width: fit-content;
