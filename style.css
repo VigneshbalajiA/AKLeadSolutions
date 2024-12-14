@@ -280,7 +280,7 @@ body{
 }
 
 .arrow{
-    display: none;
+    display: flex;
     justify-content: center;
     width: 100%;
 }
@@ -460,8 +460,5 @@ footer p{
     }
     #why .row .do-col-1{
         display: none;
-    }
-    .arrow{
-        display: flex;
     }
 }
